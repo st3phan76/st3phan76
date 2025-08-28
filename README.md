@@ -22,9 +22,10 @@ Hier findest du Code-Schnipsel, Experimente und Tools rund um **Webentwicklung**
 
 
 
+<!--
 ## 📊 GitHub-Statistiken
 ![Stephan’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=st3phan76&show_icons=true&hide_border=true&count_private=true&theme=default)
-
+-->
 
 
 ✌️ Danke fürs Vorbeischauen!
