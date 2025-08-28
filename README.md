@@ -1,11 +1,11 @@
-# 👋 Hallo, ich bin st3phan!
+# 👋 hello, I am st3phan!
 
-Hier findest du zukünftig Code-Schnipsel, Experimente und Tools rund um **Webentwicklung** und **WordPress** die ich selber verwende.
+Here you will find code snippets, experiments and tools related to **web development** and **WordPress** that I use myself.
 
 
-## 🚀 Über mich
-- 💻 Fokus: WordPress, Elementor, Plugin-Anpassungen und Code-Schnipsel
-- 📦 Interesse: Minimalistische Lösungen mit möglichst wenig Abhängigkeiten  
+## 🚀 about me
+- 💻 focus: WordPress, Elementor, plugin customization, and code snippets
+- 📦 interest: Minimalist solutions with as few dependencies as possible
 
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
