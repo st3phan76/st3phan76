@@ -1,7 +1,7 @@
 # 👋 Hallo, ich bin st3phan!
 
 Willkommen auf meinem GitHub-Profil!  
-Hier findest du Code-Schnipsel, Experimente und Tools rund um **Webentwicklung** und **WordPress**.
+Hier findest du zukünftig Code-Schnipsel, Experimente und Tools rund um **Webentwicklung** und **WordPress** die ich selber verwende.
 
 
 
